@@ -1,4 +1,4 @@
-# Olá! Eu sou a Maria Eduarda Mattos 👩‍💻
+## Olá! Eu sou a Maria Eduarda Mattos 👩‍💻
 
 Estudante de Tecnologia da Informação focada em:
 
