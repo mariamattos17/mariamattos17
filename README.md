@@ -2,7 +2,7 @@ Estudante de Tecnologia da Informação, com foco em:
 
 - Redes
 - Infraestrutura
-- Python para automação
+- Python para automação 
 - Linux
 
 ## Tecnologias
