@@ -1,6 +1,4 @@
-## Olá! Eu sou a Maria Eduarda Mattos 👩‍💻
-
-Estudante de Tecnologia da Informação focada em:
+Estudante de Tecnologia da Informação, com foco em: 
 
 - Redes
 - Infraestrutura
