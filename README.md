@@ -5,7 +5,7 @@ Estudante de Tecnologia da Informação, com foco em:
 - Python
 - Linux
   
-Atualmente desenvolvimento experiência prática em Suporte Técnico, Redes e Desenvolvimento.
+Atualmente desenvolvendo experiência prática em Suporte Técnico, Redes e Desenvolvimento.
 
 # Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
