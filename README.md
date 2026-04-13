@@ -2,8 +2,6 @@ Estudante de Tecnologia da Informação, com foco em:
 
 - Redes
 - Infraestrutura
-- Python
-- Linux
   
 Atualmente desenvolvendo experiência prática em Suporte Técnico, Redes e Desenvolvimento.
 
