@@ -12,7 +12,7 @@
 ### Technologies
 
 `JavaScript` `React` `Node.js` `Python` `HTML` `CSS`
-`Git` `Linux` `Windows Server` `Cisco` `Azure`
+`Git` `Linux` `Windows Server` `Docker` `Azure`
 
 ### Connect with me
 
