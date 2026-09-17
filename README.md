@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Maria
 
-### ADS Student | IT Support | Development | Networks & Cloud
+### ADS Student | IT Support | Development & DevOps
 
 
 * 🔭 Atualmente trabalhando com **Suporte Técnico e Desenvolvimento**
