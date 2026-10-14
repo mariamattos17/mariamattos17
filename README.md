@@ -5,9 +5,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mariamattos17&color=0078D4&style=flat-square)
 
 - 🔭 Atualmente trabalhando com **Suporte Técnico e Desenvolvimento**
-- 🌱 Estudando **Redes, Linux, Python e Microsoft Azure**
+- 🌱 Aprofundando meu estudos em **Redes, Linux, Python e Cloud e DevOps**
 - 💻 Desenvolvendo projetos com **JavaScript, React e Node.js**
-- 🌐 Explorando **Infraestrutura, Cloud e DevOps**
 
 ---
 
