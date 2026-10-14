@@ -1,6 +1,6 @@
 # Hi 👋, I'm Maria
 
-### ADS Student | IT Support | Development & DevOps
+### IT Support | Development & DevOps
 
 ![Profile views](https://komarev.com/ghpvc/?username=mariamattos17&color=0078D4&style=flat-square)
 
